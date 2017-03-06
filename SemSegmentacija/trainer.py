@@ -41,7 +41,7 @@ tf.app.flags.DEFINE_string('vgg_init_dir', '/home/kivan/datasets/pretrained/vgg1
 #                            """Number of batches to run.""")
 tf.app.flags.DEFINE_integer('max_epochs', 20, 'Number of epochs to run.')
 tf.app.flags.DEFINE_integer('batch_size', 1, '')
-tf.app.flags.DEFINE_integer('num_classes',5, '')
+tf.app.flags.DEFINE_integer('num_classes',6, '')
 tf.app.flags.DEFINE_boolean('log_device_placement', False, 'Whether to log device placement.')
 
 # 1e-4 best, 1e-3 is too big
