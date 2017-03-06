@@ -12,3 +12,5 @@ Drugo što je potrebno je biblioteka Tensorflow. Upute za njezinu instalaciju na
 Kad se sve to instalira to bi trebalo biti to :)
 
 Program je isproban i testiran na verziji Pythona 3.5, Tensoflowu 1.0 te na operacijskom sustavu Linux. Za prebacivanje na Windows bi trebalo samo napraviti malo prepravku sa načinom dohvata datoteka i to bi trebalo biti to. Za MacOS se sami snađite :)
+
+Upute za korištenje programa nalaze u samom projektu.
