@@ -14,3 +14,7 @@ Kad se sve to instalira to bi trebalo biti to :)
 Program je isproban i testiran na verziji Pythona 3.5, Tensoflowu 1.0 te na operacijskom sustavu Linux. Za prebacivanje na Windows bi trebalo samo napraviti malo prepravku sa načinom dohvata datoteka i to bi trebalo biti to. Za MacOS se sami snađite :)
 
 Upute za korištenje programa nalaze u samom projektu.
+
+<b>UPDATE</b>
+
+Dodane su i datoteke koje su namjenjene za rad na Windowsima :) Samo zamjenite one za rad na Linuxu, promijenite puteve do datotekea i to je to. Isprobano radi na Tensorflowu 1.0 (CPU i GPU) i Windowsima 10.
