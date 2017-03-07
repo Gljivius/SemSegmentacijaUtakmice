@@ -17,4 +17,4 @@ Upute za korištenje programa nalaze u samom projektu.
 
 <b>UPDATE</b>
 
-Dodane su i datoteke koje su namjenjene za rad na Windowsima :) Samo zamjenite one za rad na Linuxu, promijenite puteve do datotekea i to je to. Isprobano radi na Tensorflowu 1.0 (CPU i GPU) i Windowsima 10.
+Dodane su i datoteke koje su namjenjene za rad na Windowsima :) Samo zamjenite one za rad na Linuxu, promijenite puteve do datoteka i to je to. Isprobano radi na Tensorflowu 1.0 (CPU i GPU) i Windowsima 10.
