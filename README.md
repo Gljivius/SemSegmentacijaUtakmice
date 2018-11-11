@@ -7,7 +7,7 @@ Ovo je Python program koji služi za semantičku semgentaciju slika, u ovom slu�
 
 Prva stvar koja je potrebna je Python 3.5 ili više. Također je potrebno još par dodatnih biblioteka, a najlakši način za sve to nabaviti odjednom je instalacija Anaconde (https://www.continuum.io/downloads). Ako slučajno nedostaje koja biblioteka "pip" vam je prijatelj :)
 
-Drugo što je potrebno je biblioteka Tensorflow. Upute za njezinu instalaciju nalaze se na sljedećoj stranici: https://www.tensorflow.org/install/ Odaberite željeni operacijski sustav i snimite prema uputama koje su tamo. Moja preporuka je to instalirati prema uputama za Anacondu. Ako imate Nvidijin GPU novije generacije preporuka je instalirati verziju za GPU jer se dobici u brzini treniranja modela i izvođenju ogromni.
+Drugo što je potrebno je biblioteka Tensorflow. Upute za njezinu instalaciju nalaze se na sljedećoj stranici: https://www.tensorflow.org/install/ Odaberite željeni operacijski sustav i snimite prema uputama koje su tamo. Moja preporuka je to instalirati prema uputama za Anacondu. Ako imate Nvidijin GPU novije generacije preporuka je instalirati verziju za GPU jer su dobici u brzini treniranja modela i izvođenju ogromni.
 
 Kad se sve to instalira to bi trebalo biti to :)
 
